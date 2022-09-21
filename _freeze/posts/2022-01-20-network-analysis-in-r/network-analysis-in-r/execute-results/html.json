@@ -1,0 +1,14 @@
+{
+  "hash": "08540bdf60afcf382753f3603965c63e",
+  "result": {
+    "markdown": "---\ntitle: \"Network analysis in R\"\ndescription: |\n  An introduction to network data, network visualization and network analysis. \nauthor:\n  - name: Ieke de Vries\n    url: https://www.iekedevries.com/\ndate: 01-20-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nNetwork analysis is a topic of growing interest in criminology and beyond. This workshop gives a short introduction and overview of network analysis in R, beginning with a conceptual discussion of what networks are. In their simplest form, networks are comprised of actors (\"nodes\") and relationships between them (\"edges\"). Network analysis concerns the analytical approach to study these edges between nodes of any kind (e.g., individuals, businesses, experiences, words, or streets). The workshop proceeds with an introduction to network analysis in R, focusing on i) creating and reading network data; ii) describing and visualizing networks; and iii) explaining the formation of networks.\n\nJoin this workshop meeting on *Thursday January 20, 2022 at 13:00* on Zoom by clicking [this link](https://us02web.zoom.us/j/81102670544?pwd=WXFCY01Fblhab3lDOW5rZis1RG1Vdz09)\n\nTo prepare for the workshop, you may want to install a few R packages (just copy and paste these lines into your R Studio Editor and run them):\n\ninstall.packages(\"tidyverse\")\n\ninstall.packages(\"igraph\")\n\ninstall.packages(\"tidygraph\")\n\ninstall.packages(\"ggraph\")\n\ninstall.packages(\"statnet\")\n\n> *Ieke de Vries* is an Assistant Professor at the Institute of Criminal Law and Criminology at Leiden University. In her current work, she applies a network approach to examine co-arrest and spatial networks in Chicago, social and spatial networks in the context of human trafficking, and networks of victimizing experiences and behaviors. Besides conducting her research mostly in R, she has also taught an 'Introduction to Computational Statistics in R' to graduate students and 'Programming with Data in Python' to undergraduate students at Northeastern University and a Summer Course on 'Crime, Data, and Ethics' to honours students at Leiden University.\n\n### Materials\n\nMaterials for the workshop are available at [Github](https://github.com/Ieke/NSCR_network_workshop).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

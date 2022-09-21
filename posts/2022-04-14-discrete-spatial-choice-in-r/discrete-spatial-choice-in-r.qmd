@@ -1,0 +1,45 @@
+---
+title: "Discrete Spatial Choice in R"
+description: |
+       Learn how to set up data and estimate discrete spatial choice models in R
+author: "Wim Bernasco"
+date: "April 14 2022"
+categories: [modeling]
+image: "Screenshot.PNG"
+---
+
+
+![](Screenshot.PNG)
+
+Discrete choice is choosing a single item or action from a finite set of alternatives. We do it all the time, when we shop for new clothes, select a dish from the menu, choose to commute by bus, train or bike, select a job or an applicant, or when we swipe potential partners on Tinder.
+
+Discrete **spatial** choice is when the alternatives are spatial entities, e.g. when we choose where to buy a house, where to go on holiday, or where to commit a crime. With data on what has been chosen and on what could have been chosen, **discrete choice models** can help us understand the decision process and predict its outcome: how do features of the alternatives (e.g. monetary cost of profits, distance, comfort, taste, looks) affect which alternative is chosen?
+
+In this workshop, **Wim Bernasco** explained the key elements of discrete choice models, just enough for you to get going and still know what you are doing. Subsequently he showed what the necessary data look like, how they can be organized, and how discrete choice models can be estimated in R.
+
+Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/81735228803?pwd=VWNsRzhVNWMvK29qMDUrbjI0akVuQT09)
+
+> Wim Bernasco is senior researcher at NSCR and professor at the School of Business and Economics at the Vrije Universiteit Amsterdam. His work focuses on the geography of crime, incuding crime location choice and offender mobility. Read more on [his personal website](http://www.wimbernasco.nl).
+
+### Materials
+
+To install the packages used in this workshop, type and run: `install_packages(c("tidyverse", "broom", "survival", "mlogit", "car"))`
+
+Wim covered a subset of the material presented in a [recent handbook chapter](https://osf.io/639cz/). In the workshop, he worked with a shortened `tidyverse` style version of the script that is described in the handbook chapter.
+
+Data files, data documentation and the R script are available in [this GitHub repository](https://github.com/bernasco/nsc-r_workshop_discrete_spatial_choice).
+
+### How to download files from GitHub
+
+To download files from GitHub you can:
+
+`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+Alternatively, you can:
+
+1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.
+2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.
+
+### Contact
+
+[Wim Bernasco](https://nscr.nl/en/medewerker/prof-dr-wim-bernasco/)

@@ -1,0 +1,32 @@
+---
+title: "About us"
+image: "images/workshop.png"
+about:
+  template: trestles
+  links:
+    - icon: email
+      text: Email
+      href: https://nscr.nl/medewerker/prof-dr-wim-bernasco/#onderzoeksgebieden
+    - icon: website
+      text: Website
+      href: https://www.nscr.nl/en/
+    - icon: github
+      text: Github
+      href: https://github.com/Jonkman1/NSCR_Web
+---
+
+### What are the NSC-R Workshops?
+
+The **NSC-R Workshops** is a series of weekly one-hour online instructional sessions to support participants in developing their data science skills in R, and to promote open science principles. The NSC-R workshop meetings are organized by a team affliated with the Netherlands Institute for the Study of Crime and Law Enforcement [(NSCR)](https://www.nscr.nl/en/), but they are open to everyone, regardless of affiliation or skill level. All the material of the blog you can find [here](https://github.com/Jonkman1/NSCR_Web) 
+
+### The NSC-R Workshop Team
+
+The NSC-R Workshop Team coordinates the NSC-R Workshops. They discuss potential topics, invite presenters, plan the meetings and send invitations. Currently the team includes Wim Bernasco, Franziska Yasrebi-de Kom, Sam Langton, Asier Moneva and Alex Trinidad.
+
+### Contact Us and Get involved
+
+If you want your e-mail address on our mailing list, please send an e-mail to [Wim Bernasco](wbernasco@nscr.nl).
+
+If you have suggestions for workshop topics, or are interested in presenting one, please send a message to [Wim Bernasco](wbernasco@nscr.nl), [Franziska Yasrebi-de Kom](FYasrebi@nscr.nl), [Sam Langton](slangton@nscr.nl), [Asier Moneva](amoneva@nscr.nl) or [Alex Trinidad](atrinidad@nscr.nl).
+
+

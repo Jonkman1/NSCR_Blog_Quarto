@@ -1,0 +1,27 @@
+---
+title: "NSC-R Tidy Tuesday"
+description: |
+       Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues..
+author: "Tim Verlaan"
+date: "March 8 2022"
+categories: [modeling]
+image: "Screenshot.PNG"
+---
+
+
+![](Screenshot.PNG)
+
+The NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.
+
+Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/84460236110?pwd=cUovNFdtbnRheE44ZVV0b2s1bkVnUT09)
+
+In this meeting, Tim will explain what Sankey diagrams are, and how they can be created in R.
+
+> **Tim Verlaan** is a PhD candidate at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR).
+
+### Materials
+
+-   The [script (R)](script.R) that Tim worked through.
+-   The [presentation](presentation.pptx) that Tim used.
+
+[Tim Verlaan](https://nscr.nl/en/medewerker/tim-verlaan)

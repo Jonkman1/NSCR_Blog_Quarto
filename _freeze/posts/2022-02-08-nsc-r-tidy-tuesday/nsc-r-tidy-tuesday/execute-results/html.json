@@ -1,0 +1,16 @@
+{
+  "hash": "743f1b68b498cfea6324b41774b751c2",
+  "result": {
+    "markdown": "---\ntitle: \"NSC-R Tidy Tuesday\"\ndescription: |\n  Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.\nauthor:\n  - name: Asier Moneva\n    url: https://nscr.nl/en/medewerker/asier-moneva/\ndate: 02-08-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nThe NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.\n\nThe [dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-01-25) for this Tidy Tuesday is about board games! [Asier Moneva](https://twitter.com/crimoneva) explores the following research questions: \"What are the top 3 best-selling board games by game type?\" and \"How do board game sales relate to online user ratings?\" Feel free to explore these questions yourselves and share your experience with us.\n\n### Materials\n\n-   The R script that Asier worked through is in [this Github repository](https://github.com/amoneva/tidy_tuesday/blob/main/week4_board_games.R).\n-   The Tidy Data paper (pre-print) by Hardley Wickham (2014) is [here](https://vita.had.co.nz/papers/tidy-data.pdf).\n\n### How to download files from GitHub\n\nTo download files from GitHub you can:\n\n`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).\n\nAlternatively, you can:\n\n1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.\n2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.\n",
+    "supporting": [
+      "nsc-r-tidy-tuesday_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

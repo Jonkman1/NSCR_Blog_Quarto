@@ -1,0 +1,16 @@
+{
+  "hash": "f0147db423c72f96a05fecaabbba9faf",
+  "result": {
+    "markdown": "---\ntitle: \"NSC-R Tidy Tuesday\"\ndescription: |\n       Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues..\nauthor: \"Tim Verlaan\"\ndate: \"March 8 2022\"\ncategories: [modeling]\nimage: \"Screenshot.PNG\"\n---\n\n\n\n![](Screenshot.PNG)\n\nThe NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.\n\nJoin this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/84460236110?pwd=cUovNFdtbnRheE44ZVV0b2s1bkVnUT09)\n\nIn this meeting, Tim will explain what Sankey diagrams are, and how they can be created in R.\n\n> **Tim Verlaan** is a PhD candidate at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR).\n\n### Materials\n\n-   The [script (R)](script.R) that Tim worked through.\n-   The [presentation](presentation.pptx) that Tim used.\n\n[Tim Verlaan](https://nscr.nl/en/medewerker/tim-verlaan)\n",
+    "supporting": [
+      "nsc-r-tidy-tuesday_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

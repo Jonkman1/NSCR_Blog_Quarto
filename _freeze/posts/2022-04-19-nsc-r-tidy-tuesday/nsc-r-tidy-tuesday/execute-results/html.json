@@ -1,0 +1,16 @@
+{
+  "hash": "37f1d1f04c0462185222f734ba527fbc",
+  "result": {
+    "markdown": "---\ntitle: \"NSC-R Tidy Tuesday\"\ndescription: |\n  Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.\nauthor:\n  - name: Asier Moneva\n    url: https://nscr.nl/en/medewerker/asier-moneva/\ndate: 04-19-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nThe NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.\n\nThe [dataset](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-04-12/indoor_pollution.csv) for this Tidy Tuesday is about indoor air pollution! **Asier Moneva** explores the following research question: \"How have trends in deaths due to household air pollution from solid fuels evolved in the EU countries over the last 30 years?\" Feel free to explore this question yourselves and share your experience with us.\n\nJoin this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/82954366080?pwd=bzdpSzRkNktzVkZSOEdNUTlSdTNmdz09)\n\n> **Asier Moneva** is a postdoc at the NSCR and The Hague University of Applied Sciences with a background in criminology. He started specializing in crime analysis with R during his master's degree and has since developed an interest in open science.\n\n### Materials\n\n-   The R script that Asier worked through is in [this GitHub repository](https://github.com/amoneva/tidy_tuesday/blob/main/week15_air_pollution.Rmd) that Asier worked through.\n\n### How to download files from GitHub\n\nTo download files from GitHub you can:\n\n`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).\n\nAlternatively, you can:\n\n1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.\n2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.\n",
+    "supporting": [
+      "nsc-r-tidy-tuesday_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

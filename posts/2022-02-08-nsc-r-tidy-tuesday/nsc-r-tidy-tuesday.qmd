@@ -1,0 +1,35 @@
+---
+title: "NSC-R Tidy Tuesday"
+description: |
+       Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.
+author: "Asier Moneva"
+date: "Februari 8 2022"
+categories: [tidy tuesday]
+image: "Screenshot.PNG"
+---
+
+
+![](Screenshot.PNG)
+
+The NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.
+
+The [dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-01-25) for this Tidy Tuesday is about board games! [Asier Moneva](https://twitter.com/crimoneva) explores the following research questions: "What are the top 3 best-selling board games by game type?" and "How do board game sales relate to online user ratings?" Feel free to explore these questions yourselves and share your experience with us.
+
+### Materials
+
+-   The R script that Asier worked through is in [this Github repository](https://github.com/amoneva/tidy_tuesday/blob/main/week4_board_games.R).
+-   The Tidy Data paper (pre-print) by Hardley Wickham (2014) is [here](https://vita.had.co.nz/papers/tidy-data.pdf).
+
+### How to download files from GitHub
+
+To download files from GitHub you can:
+
+`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+Alternatively, you can:
+
+1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.
+2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.
+
+
+[Asier Moneva](https://nscr.nl/en/medewerker/asier-moneva/)

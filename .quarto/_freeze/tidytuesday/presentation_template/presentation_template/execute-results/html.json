@@ -1,0 +1,14 @@
+{
+  "hash": "0b71493385e86e1dbea30ac3f34aecbe",
+  "result": {
+    "markdown": "---\ntitle: '`tidytuesday`'\nauthor: \"Sam Langton\"\ndate: \"NSC-R workshop series <br> <br> 11 January 2022\" \noutput:\n  xaringan::moon_reader:\n    lib_dir: libs\n    css: [\"default\", \"my_theme.css\"]\n    nature:\n      highlightStyle: github\n      highlightLines: true  \n      countIncrementalSlides: true\n---\n\n\n\n\n## R for Data Science\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](img/r4dsbook.png){fig-align='center' width=300px}\n:::\n:::\n\n\nSource: [R4DS online book](https://r4ds.had.co.nz/)\n\n\n---\n\n## R4DS community\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](img/r4dscomm.png){fig-align='center' width=700px}\n:::\n:::\n\nSource: [rfordatasci.com](https://www.rfordatasci.com/)\n\n---\n\n\n## tidytuesday\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](img/ttlogo.png){fig-align='center' width=700px}\n:::\n:::\n\n\nSource: [tidytuesday GitHub](https://github.com/rfordatascience/tidytuesday)\n\n\n---\n\n## NSC-R workshops\n\n- Fundamental skills\n- Diverse datasets\n- Frequent \n- Repetitive\n- Less structured \n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

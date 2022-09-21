@@ -1,0 +1,16 @@
+{
+  "hash": "7f2798e2b57445423c6f6811dbc44963",
+  "result": {
+    "markdown": "---\ntitle: \"Shiny (1/2)\"\ndescription: |\n      Learn how to make interactive tables, graphs and text from data.\nauthor: \"Nick van Doormaal\"\ndate: \"September 27 2021\"\ncategories: [modeling, visualization]\nimage: \"Screenshot.PNG\"\n---\n\n---\ntitle: \"Creating web applications with Shiny (1/2)\"\ndescription: |\n  Learn how to make interactive tables, graphs and text from data.\nauthor:\n  - name: Nick van Doormaal\n    url: https://www.linkedin.com/in/nick-van-doormaal-9213a7a2/\ndate: 03-17-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nIn a two-sessions workshop, Nick van Doormaal demonstrated how to use the `shiny` package to create interactive web applications. Note that this was the first session of a two-sesssion workshop. This first session was be a basic introduction on the different components of a shiny app. In the second session (on Thursday March 31) we explored into more depth how 'reactivity' works, an important component of most shiny apps.\n\nFor inspiration, you may want to spend a few minutes viewing some [fun apps](https://www.rstudio.com/blog/3-fun-shiny-apps-for-your-long-labor-day-weekend/) made with `shiny`, or [this `shiny` gallery](https://shiny.rstudio.com/gallery/).\n\nTo prepare for the workshop, you could install these two R packages (just copy and paste this line into your R Studio Editor and run it)\n\ninstall.packages(c(\"tidyverse\", \"shiny\"))\n\n> **Nick van Doormaal** is a former PhD candidate at the NSCR and currently a data analyst at the environmental service of the province of Gelderland. He got into R during his MSc thesis and internship and has been using R ever since.\n\n### Materials\n\nOn Nick's GitHub repository [nscr-shiny-workshop](https://github.com/nvdoormaal/nscr-shiny-workshop) you can find the data and the R script that documents the development that Nick demonstrated during the second workshop on Thursday March 31.\n\n### How to download files from GitHub\n\nTo download files from GitHub you can:\n\n`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).\n\nAlternatively, you can:\n\n1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.\n2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.\n\n\n### Contact\n[Nick van Doornmaal](https://www.linkedin.com/in/nick-van-doormaal-9213a7a2/)",
+    "supporting": [
+      "shiny1of2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

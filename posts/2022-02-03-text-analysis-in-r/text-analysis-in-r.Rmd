@@ -1,0 +1,28 @@
+---
+title: "Text analysis in R"
+description: |
+  How to process free-text data in R
+author:
+  - name: Anthony Dixon
+    url: https://www.researchgate.net/profile/Anthony-Dixon-10/
+date: 02-03-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ ](Screenshot.PNG)
+
+Much information is stored as free-text. Free-text is weakly structured and therefore hard to extract and organize. This workshop will explore some elements of working with free-text data in R, principally how it can be prepared and transformed to be used with machine learning algorithms.
+
+Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/85477754782?pwd=cExxK2NCSFVWdERVcERMMVg3WjFCdz09)
+
+*Anthony Dixon* is a postgraduate researcher at the University of Leeds, working in the [School of Law](https://essl.leeds.ac.uk/law) and the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk). The topic of his thesis is 'Improving Problem-oriented policing with Natural Language Processing', which seeks to explore the use of state-of-the-art deep learning models to automatically extract information from police free-text data. Additionally he has joint published a number of papers covering crime changes as a result of the covid-19 pandemic.
+
+### Materials
+
+You can download the materials used in the workshop [here](https://github.com/Jonkman1/NSCR_Web/raw/main/materials/text_analytics_files.zip).

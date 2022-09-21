@@ -1,0 +1,14 @@
+{
+  "hash": "31fbfdc6c3c137c6dedf70b58454d315",
+  "result": {
+    "markdown": "---\ntitle: \"cbsodataR package\"\ndescription: |\n  Demonstrating the cbsodataR package in R\nauthor: \n  - name: Edwin de Jonge\ndate: 05-12-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nIn this workshop, Edwin De Jonge from Statistics Netherlands (CBS) provided an introduction and demonstration to his package `cbsodataR` which can be used to query the CBS open data API.\n\n### Materials\n\n-   You can find a quick start guide to using the package [here](https://www.cbs.nl/en-gb/our-services/open-data/statline-as-open-data/quick-start-guide).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

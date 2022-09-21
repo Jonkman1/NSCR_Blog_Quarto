@@ -1,0 +1,14 @@
+{
+  "hash": "e552a3c9c3acf850c7676227f34f8660",
+  "result": {
+    "markdown": "---\ntitle: \"Welcome\"\ndescription: |\n  A blog on the NSC-R Workshops. \nauthor:\n  - name: Wim Bernasco, Alex Trinidad, Asier Moneva and Sam Langton\n    url: https://nscr.nl\n    affiliation: NSCR\npreview: workshop.png\ndate: June 6 2021\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](workshop.png){out.width=\"50%\"} <br> This blog serves as an agenda for future workshop meetings and as an archive for past workshop meetings. Each post:\n\n-   briefly describes date, time and topic of a workshop\n-   provides the Zoom link where you can join the workshop meeting\n-   lists any necessary suggested pre-workshop reading material\n-   introduces the workshop presenter\n-   provides links to the workshop materials provided by the presenter\n-   provides links to additional information on the workshop topic\n\n### Open sources that may help you learn about R in general\n\n-   Grolemund, G. & Wickham, H. (2019). [R for Data Science](https://r4ds.had.co.nz/)\n\n-   Batra, N. (ed, 2021). [The Epidemiologist R Handbook](https://epirhandbook.com/index.html)\n\n-   Baumer, B.S., Kaplan, D.T. & Horton, N.J. (2018). [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)\n\n-   Irizarry, R.A. (2019). [Introduction to Data Science. Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)\n\n-   Kaplan, J. (2021). [Crime by the Numbers: A Criminologist's Guide to R](https://crimebythenumbers.com/)\n\n-   Navarro, D. (2019). [Learning statistics with R: A tutorial for psychology students and other beginners](https://learningstatisticswithr.com/book/)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

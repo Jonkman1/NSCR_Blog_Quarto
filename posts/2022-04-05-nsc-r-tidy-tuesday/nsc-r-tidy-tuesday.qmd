@@ -1,0 +1,35 @@
+---
+title: "NSC-R Tidy Tuesday"
+description: |
+      Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.
+author: "Sam Langton"
+date: "May 4 2022"
+categories: [tidy tuesday]
+image: "Screenshot.PNG"
+---
+
+![](Screenshot.PNG)
+
+The NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.
+
+In this session, Sam Langton demonstrated long to wide (and wide to long) transformations using functions available in the `tidyr` package using data from the London Fire Brigade.
+
+> *Sam Langton* is a postdoc researcher on the evidence-based policing programme at the NSCR. His research focuses on describing and explaining the spatial and temporal patterning of police demand. Sam is interested in promoting open science in criminology, particularly through open data and sharing his knowledge (and struggles) in R.
+
+### Materials
+
+-   You can find the material for this workshop [in this GitHub repository](https://github.com/langtonhugh/nscr_graphics).
+
+### How to download files from GitHub
+
+To download files from GitHub you can:
+
+`Clone` the repository to create a local copy in your computer. To clone a repository, follow the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+Alternatively, you can:
+
+1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.
+2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.
+
+### Contact
+[Sam Langton](url: https://nscr.nl/en/medewerker/sam-langton/)

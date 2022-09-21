@@ -1,0 +1,32 @@
+---
+title: "Hot Routes and Street Profiles"
+description: |
+       About visualising crime along a route or network: hot routes and street profile analysis..
+author: "Reka Solymosi"
+date: "May 17 2022"
+categories: [visualization, modeling]
+image: "Screenshot.PNG"
+---
+
+
+![](Screenshot.PNG)
+
+In this workshop, **Reka Solymosi** will introduce and discuss the implementation in R of two different methods for visualising crime along a route or network (such as rail or street networks): hot routes and street profile analysis.
+
+Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/88398411627?pwd=UEswR1RKeXhDOVlCcDBScERsZENCZz09)
+
+> *Reka Solymosi* is a Lecturer in Quantitative Methods at the Department of Criminology at University of Manchester. Her research focuses on making use of new forms of data to gain insight into people's behaviour and subjective experiences, particularly focusing on crime, victimisation, transport, and spatial research. She is also dedicated to promoting data literacy in social science study and practice.
+
+### Materials
+
+-   A tutorial on hot routes is [here](https://rekadata.net/blog/hot-routes-tutorial/).
+
+-   A tutorials on street profile analysis is [here](https://rekadata.net/blog/street-profiles-tutorial/)
+
+-   The slides from Reka's workshop presentation are [here](https://rekadata.net/blog/street-profiles-tutorial/)
+
+-   The data used in Reka's workshop presentation are [here](https://github.com/maczokni/statistically_insignificant/tree/master/public/talks/data)
+
+
+### Contact
+[Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html)

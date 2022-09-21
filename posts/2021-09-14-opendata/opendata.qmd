@@ -1,0 +1,20 @@
+---
+title: "Open Data"
+description: |
+      Introduction to open data and how they can be found, downloaded and processed in R.
+author: "Sam Langton"
+date: "September 14 2021"
+categories: [wrangling, visualization, modeling]
+image: "Screenshot.PNG"
+---
+
+![](Screenshot.PNG)
+
+This workshop session provided an introduction to **open data using R**. Following a brief introductory presentation (e.g. definitions, purpose) the bulk of the workshop focused on practical examples which demonstrated how to obtain and handle open data within the R environment.
+
+> *Sam Langton* is a postdoc researcher on the evidence-based policing programme at the NSCR. His research focuses on describing and explaining the spatial and temporal patterning of police demand. Sam is interested in promoting open science in criminology, particularly through open data and sharing his knowledge (and struggles) in R.
+
+### Materials
+
+-   You can find the material for this workshop [here](https://github.com/Jonkman1/NSC_R/tree/main/Meeting_4_OpenData).
+-   You might find this corresponding [book chapter](https://osf.io/a96y7/) (in press) interesting too.

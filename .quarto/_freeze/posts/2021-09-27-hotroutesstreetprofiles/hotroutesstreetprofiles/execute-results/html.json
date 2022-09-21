@@ -1,0 +1,16 @@
+{
+  "hash": "ed48c47e2f55ae84677121a43da8142e",
+  "result": {
+    "markdown": "---\ntitle: \"Hot Routes and Street Profiles\"\ndescription: |\n  Hot routes and street profiles.\nauthor: \n  - name: Reka Solymosi\n    url: https://www.research.manchester.ac.uk/portal/reka.solymosi.html\ndate: 10-12-2021\ndraft: true\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\nIn this workshop, dr. **Reka Solymosi** will provide an introduction to various methods of analyzing and visualing spatial network data (such a street networks, or Underground lines). \n\n**Reka** is a Lecturer in Quantitative Methods at the Department of Criminology at University of Manchester. Her research focuses on making use of new forms of data to gain insight into people's behaviour and subjective experiences, particularly focusing on crime, victimisation, transport, and spatial research. She is also dedicated to promoting data literacy in social science study and practice.\n\nYou can find some of her work at her [blog site](https://rekadata.net/)\n\n\n\n",
+    "supporting": [
+      "hotroutesstreetprofiles_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

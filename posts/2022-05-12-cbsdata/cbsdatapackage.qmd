@@ -1,0 +1,24 @@
+---
+title: "cbsodataR package"
+description: |
+       Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.
+author: "Edwin de Jonge"
+date: "May 12 2022"
+categories: [wrangling, visualization, modeling]
+image: "Screenshot.PNG"
+---
+
+
+
+
+![](Screenshot.PNG)
+
+In this workshop, Edwin De Jonge from Statistics Netherlands (CBS) provided an introduction and demonstration to his package `cbsodataR` which can be used to query the CBS open data API.
+
+### Materials
+
+-   You can find a quick start guide to using the package [here](https://www.cbs.nl/en-gb/our-services/open-data/statline-as-open-data/quick-start-guide).
+
+
+### 
+[Edwin de Jong via](https://www.cbs.nl/nl-nl/over-ons/contact)

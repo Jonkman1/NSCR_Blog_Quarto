@@ -1,0 +1,16 @@
+{
+  "hash": "713ee66321f30b5157dc163467ea528a",
+  "result": {
+    "markdown": "---\ntitle: \"Reproducibility\"\ndescription: |\n     How to organize your research workflow in R to create documented code and reproducible findings.\nauthor: \"Thomas de Graaff\"\ndate: \"June 24 2021\"\ncategories: [analyse]\nimage: \"Screenshot1.PNG\"\n---\n\n\n![](Screenshot1.png)\n\nOn Thursday June 24, 13:00-14:00, we kicked off the NSC-R Workshop initiative. The topic of this first meeting was reproducibility, which is about how to organize your research workflow to create documented code and reproducible findings. The focus **was not on why** (we should know), but on practical guidelines **on how to do it**. It was presented by Thomas de Graaff.\n\nHere you find the [presentation](https://www.dropbox.com/s/vn7rn9m5ht2miol/reproducibility.pdf?dl=0)\n\nTo prepare for the first meeting, Thomas de Graaff suggested you might want to take a look at the following links. This is obviously not mandatory, but the materials may give rise to ideas or questions that you may want to discuss in the workshop meeting:\n\n-   A very readable post on [reproducible workflow in R](https://cyberhelp.sesync.org/blog/reproducible-r-workflow.html).\n\n-   A nice short blog post [about R projects](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/).\n\n-   If you are using R already and in particular if you use tidyverse, a long book-down document about [coding style conventions](https://style.tidyverse.org/index.html).\n\n-   A wonderful but distressing lecture (and long: about 50 minutes) from Richard McElreath about working with software in the social sciences, with a criminology paper example in the end on racial disparity in police use of deadly force. [Click this YouTube link](https://www.youtube.com/watch?v=zwRdO9_GGhY).\n\nYou may also want to consult this textbook:\n\nGandrud, C. *Reproducible Research with R and RStudio, Second edition*. [Click to download the PDF](https://radhakrishna.typepad.com/reproducible-research-with-r-and-rstudio---second-edition.pdf)\n\n> Thomas de Graaf is associate professor at the department of Spatial Economics at the Vrije Universiteit in Amsterdam.\n",
+    "supporting": [
+      "workshop1-reproducibility_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hash": "ca275463907d91a9c32899bae49dd2f9",
+  "result": {
+    "markdown": "---\ntitle: \"Summer break 2022\"\ndescription: |\n  The NSC-R Team wishes you a great summer\nauthor:\n  - name: NSC-R Team\n    url: \ndate: 07-08-2022\noutput:\n  distill::distill_article:\n    self_contained: false\n---\n\n\n\n\n![](Screenshot.PNG)\n\nDuring July and August, no NSC-R workshops are being organized. We hope to be back in September with a new series. Please let us know if you have any ideas for the organization of the workshops, or if you have suggestions for topics or for instructors (including yourself).\n\nHave a great summer!\n\nThe NSC-R Workshops team\n\nWim Bernasco (wbernasco\\@nscr.nl), Sam Langton (slangton\\@nscr.nl), Asier Moneva (amoneva\\@nscr.nl) Alex Trinidad (atrinidad\\@nscr.nl) and Franziska Yasrebi-de Kom (FYasrebi\\@nscr.nl).\n",
+    "supporting": [
+      "summer-break_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}
