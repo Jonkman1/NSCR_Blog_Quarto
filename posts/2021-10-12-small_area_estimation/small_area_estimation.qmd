@@ -3,11 +3,10 @@ title: "Small area estimation"
 description: |
      Small area estimation for crime analysis.
 author: "David Buil-Gil"
-date: "November 11 2 2021"
+date: "November 11 2021"
 categories: [modeling]
 image: "Screenshot.PNG"
 ---
-
 
 ![](Screenshot.PNG)
 

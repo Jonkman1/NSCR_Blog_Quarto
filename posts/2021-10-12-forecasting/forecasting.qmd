@@ -3,11 +3,10 @@ title: "COVID-19 crime forecasting models"
 description: |
       COVID-19 crime forecasting models.
 author: "Matt Ashby"
-date: "October 28 27 2021"
+date: "October 28 2021"
 categories: [modeling]
 image: "Screenshot.PNG"
 ---
-
 
 ![](Screenshot.PNG)
 

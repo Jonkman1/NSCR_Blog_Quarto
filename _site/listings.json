@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2021-10-12-forecasting/forecasting.html",
       "/posts/2022-10-05-using-r-for-reproducible-social-science/using-r-for-reproducible-social-science.html",
       "/posts/2022-07-08-summer-break/summer-break.html",
       "/posts/2022-06-09-writing-r-packages/writing-r-packages.html",
@@ -29,15 +28,15 @@
       "/posts/2022-01-20-network-analysis-in-r/network-analysis-in-r.html",
       "/posts/2021-12-07-distill/distill.html",
       "/posts/2021-11-25-github/github.html",
-      "/posts/2021-10-27-crimeforecastingmodels/crimeforecastingmodels.html",
+      "/posts/2021-10-12-small_area_estimation/small_area_estimation.html",
+      "/posts/2021-10-12-forecasting/forecasting.html",
       "/posts/2021-09-28-tidyverse/tidyverse.html",
       "/posts/2021-09-27-spatialregression/spatialregression.html",
       "/posts/2021-09-14-opendata/opendata.html",
       "/posts/2021-09-02-spatialdata/spatialdata.html",
       "/posts/2021-07-06-rmarkdown/rmarkdown.html",
       "/posts/2021-06-24-workshop1-reproducibility/workshop1-reproducibility.html",
-      "/posts/2021-06-23-welcome/welcome.html",
-      "/posts/2021-10-12-small_area_estimation/small_area_estimation.html"
+      "/posts/2021-06-23-welcome/welcome.html"
     ]
   }
 ]
