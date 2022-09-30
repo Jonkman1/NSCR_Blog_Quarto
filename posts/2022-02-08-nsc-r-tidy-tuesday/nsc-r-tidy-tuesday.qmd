@@ -6,8 +6,8 @@ author: "Asier Moneva"
 date: "Februari 8 2022"
 categories: [tidy tuesday]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
-
 
 ![](Screenshot.PNG)
 
@@ -30,6 +30,5 @@ Alternatively, you can:
 
 1.  Download all files compressed in a `ZIP`. To do this, go to the repository and click on the green `code` button, then select `download ZIP`. Unzip the downloaded file into a folder on your local computer.
 2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.
-
 
 [Asier Moneva](https://nscr.nl/en/medewerker/asier-moneva/)

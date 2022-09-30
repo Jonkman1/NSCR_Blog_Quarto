@@ -6,6 +6,7 @@ author: "Alex Trinidad"
 date: "Februari 22 2022"
 categories: [tidy tuesday]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot.PNG)
@@ -21,7 +22,5 @@ The [dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/20
 -   The [script (R)](https://uni-koeln.sciebo.de/s/si6tjDuWIOIm0tF) that Alex worked through.
 -   The CRAN [documentation](https://cran.r-project.org/web/packages/lubridate/lubridate.pdf).
 -   About [lubridate](https://lubridate.tidyverse.org/).
-
-
 
 [Alex Trinidad](https://twitter.com/atrinidad_psi)

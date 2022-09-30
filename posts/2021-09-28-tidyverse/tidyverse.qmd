@@ -6,6 +6,7 @@ author: "Sam Langtonr"
 date: "September 28 2021"
 categories: [wrangling, visualization]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot.PNG)

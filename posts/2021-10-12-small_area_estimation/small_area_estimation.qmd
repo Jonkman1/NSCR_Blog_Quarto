@@ -6,6 +6,7 @@ author: "David Buil-Gil"
 date: "November 11 2021"
 categories: [modeling]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot.PNG)

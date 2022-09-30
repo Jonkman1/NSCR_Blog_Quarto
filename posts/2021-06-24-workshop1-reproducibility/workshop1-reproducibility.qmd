@@ -6,6 +6,7 @@ author: "Thomas de Graaff"
 date: "June 24 2021"
 categories: [theory, communication]
 image: "Screenshot1.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot1.png)
@@ -32,18 +33,9 @@ Gandrud, C. *Reproducible Research with R and RStudio, Second edition*. [Click t
 
 [Thomas de Graaf](https://research.vu.nl/en/persons/thomas-de-graaff)
 
-## Citation
 
 For attribution, please cite this work as
+[@graaf_nsc-r_2021-1]
 
-    Graaff, T. de (2021, June 24). NSC-R Workshops: Reproducibility. Retrieved from https://nscrweb.netlify.app/posts/2021-07-06-rmarkdown/
+    
 
-BibTeX citation
-
-``` @misc{moneva2021rmarkdown,
-  author = {Graaf, T. de},
-  title = {NSC-R Workshops: RMarkdown},
-  url = {https://nscrweb.netlify.app/posts/2021-06-24-workshop1-reproducibility/},
-  year = {2021}
-}
-```

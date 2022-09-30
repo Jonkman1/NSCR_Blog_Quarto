@@ -6,8 +6,8 @@ author: "Harrie Jonkman"
 date: "November 25 2021"
 categories: [collaboration]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
-
 
 ![](Screenshot.PNG)
 

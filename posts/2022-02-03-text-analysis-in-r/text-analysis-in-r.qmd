@@ -1,21 +1,16 @@
 ---
 title: "Text analysis in R"
 description: |
-  How to process free-text data in R
-author:
-  - name: Anthony Dixon
-    url: https://www.researchgate.net/profile/Anthony-Dixon-10/
-date: 02-03-2022
-output:
-  distill::distill_article:
-    self_contained: false
+       How to process free-text data in R
+author: "Anthony Dixon"
+date: "February 2 2022"
+categories: [modeling]
+image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
-![ ](Screenshot.PNG)
+![](Screenshot.PNG)
 
 Much information is stored as free-text. Free-text is weakly structured and therefore hard to extract and organize. This workshop will explore some elements of working with free-text data in R, principally how it can be prepared and transformed to be used with machine learning algorithms.
 

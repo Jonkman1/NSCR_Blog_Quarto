@@ -6,8 +6,8 @@ author: "Ieke de Vries"
 date: "December 11 2021"
 categories: [wrangling, visualization]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
-
 
 ![](Screenshot.PNG)
 
@@ -29,11 +29,8 @@ install.packages("statnet")
 
 > *Ieke de Vries* is an Assistant Professor at the Institute of Criminal Law and Criminology at Leiden University. In her current work, she applies a network approach to examine co-arrest and spatial networks in Chicago, social and spatial networks in the context of human trafficking, and networks of victimizing experiences and behaviors. Besides conducting her research mostly in R, she has also taught an 'Introduction to Computational Statistics in R' to graduate students and 'Programming with Data in Python' to undergraduate students at Northeastern University and a Summer Course on 'Crime, Data, and Ethics' to honours students at Leiden University.
 
-
-[Ieke de Vries](https://www.iekedevries.com)   
+[Ieke de Vries](https://www.iekedevries.com)
 
 ### Materials
 
 Materials for the workshop are available at [Github](https://github.com/Ieke/NSCR_network_workshop).
-
-
