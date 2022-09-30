@@ -9,7 +9,6 @@ image: "Screenshot.PNG"
 bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
-
 ![](Screenshot.PNG)
 
 Much information is stored as free-text. Free-text is weakly structured and therefore hard to extract and organize. This workshop will explore some elements of working with free-text data in R, principally how it can be prepared and transformed to be used with machine learning algorithms.
@@ -21,3 +20,7 @@ Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.
 ### Materials
 
 You can download the materials used in the workshop [here](https://github.com/Jonkman1/NSCR_Web/raw/main/materials/text_analytics_files.zip).
+
+### Citation
+
+For attribution, please cite this work as [@dixon_nsc-r_2022]

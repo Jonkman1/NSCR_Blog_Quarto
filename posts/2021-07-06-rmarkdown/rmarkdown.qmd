@@ -31,16 +31,6 @@ bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quar
 
 ## Citation
 
-For attribution, please cite this work as
+For attribution, please cite this work as [@moneva_nsc-r_2021]
 
-    Moneva (2021, July 6). NSC-R Workshops: RMarkdown. Retrieved from https://nscrweb.netlify.app/posts/2021-07-06-rmarkdown/
-
-BibTeX citation
-
-``` @misc{moneva2021rmarkdown,
-  author = {Moneva, Asier},
-  title = {NSC-R Workshops: RMarkdown},
-  url = {https://nscrweb.netlify.app/posts/2021-07-06-rmarkdown/},
-  year = {2021}
-}
-```
+    

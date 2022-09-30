@@ -39,3 +39,7 @@ Alternatively, you can:
 ### Contact
 
 [Nick van Doornmaal](https://www.linkedin.com/in/nick-van-doormaal-9213a7a2/)
+
+### Citation
+
+For attribution, please cite this work as [@doormaal_nsc-r_2022]

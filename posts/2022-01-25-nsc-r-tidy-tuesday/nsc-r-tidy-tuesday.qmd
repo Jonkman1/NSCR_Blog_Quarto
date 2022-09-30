@@ -24,3 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Materials
 
 -   You can find the material for this workshop [here](https://github.com/langtonhugh/nscr_graphics).
+
+### Citation
+
+For attribution, please cite this work as [@langton_nsc-r_2022]

@@ -30,3 +30,7 @@ The [slides](20220428NSC-R-workshop-handout.pdf) that accompanied Stef's present
 ### Contact
 
 [Stef van Buuren](https://stefvanbuuren.name)
+
+### Citation
+
+For attribution, please cite this work as [@buuren_nsc-r_2022]

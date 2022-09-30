@@ -9,7 +9,6 @@ image: "Screenshot.PNG"
 bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
-
 ![](Screenshot.PNG)
 
 The third meeting of the NSC-R Workshop was on Thursday September 2, 13:00-14:00 hr. Alex Trinidad introduced us to *spatial data* and how they can be processed in R.
@@ -27,16 +26,6 @@ To prepare for the meeting, Alex suggested you might want to take a look at the 
 
 ## Citation
 
-For attribution, please cite this work as
+For attribution, please cite this work as [@trinidad_nsc__2021]
 
-    Trinidad, A. (2021, September 2). NSC-R Workshops: Spatial data. Retrieved from https://nscrweb.netlify.app/posts/2021-09-02-spatialdata/
-
-BibTeX citation
-
-``` @misc{moneva2021rmarkdown,
-  author = {Trinida, A.},
-  title = {NSC-R Workshops: RMarkdown},
-  url = {https://nscrweb.netlify.app/posts/2021-09-02-spatialdata/},
-  year = {2021}
-}
-```
+  

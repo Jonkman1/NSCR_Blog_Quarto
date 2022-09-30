@@ -48,3 +48,7 @@ See you on Tuesday!
 ### Materials
 
 All you need is the script mentioned above, which can be viewed [here](https://github.com/langtonhugh/nscr_graphics/blob/main/scripts/tidytuesday_start_31may2022.R). Either copy and paste the code into an R script, or right click on *Raw* (right hand side) and click *Save link as...*. Remember to save the script in your *scripts* folder (see above).
+
+### Citation
+
+For attribution, please cite this work as [@langton_nsc-r_2022-1]

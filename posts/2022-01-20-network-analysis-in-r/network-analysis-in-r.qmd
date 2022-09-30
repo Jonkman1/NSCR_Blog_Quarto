@@ -34,3 +34,7 @@ install.packages("statnet")
 ### Materials
 
 Materials for the workshop are available at [Github](https://github.com/Ieke/NSCR_network_workshop).
+
+### Citation
+
+For attribution, please cite this work as [@vries_nsc-r_2022]

@@ -20,3 +20,7 @@ In this workshop, Edwin De Jonge from Statistics Netherlands (CBS) provided an i
 ### 
 
 [Edwin de Jong via](https://www.cbs.nl/nl-nl/over-ons/contact)
+
+### Citation
+
+For attribution, please cite this work as [@jonge_nsc-r_2022]

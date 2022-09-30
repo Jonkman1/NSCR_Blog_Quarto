@@ -24,3 +24,7 @@ By way of preparation, you might want to install two packages:
 > Wouter Steenbeek is a senior researcher at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR). He started using R around 2012. His main research interests are in spatial patterns of crime and quantitative research methods.
 
 [Wouter Steenbeek](https://nscr.nl/en/medewerker/wouter-steenbeek/)
+
+### Citation
+
+For attribution, please cite this work as [@noauthor_nsc-r_2022]

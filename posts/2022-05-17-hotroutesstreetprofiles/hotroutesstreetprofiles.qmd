@@ -30,3 +30,7 @@ Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.
 ### Contact
 
 [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html)
+
+### Citation
+
+For attribution, please cite this work as [@solymosi_nsc-r_2022]

@@ -24,3 +24,7 @@ The [dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/20
 -   About [lubridate](https://lubridate.tidyverse.org/).
 
 [Alex Trinidad](https://twitter.com/atrinidad_psi)
+
+### Citation
+
+For attribution, please cite this work as [@trinidad_nsc-r_nodate]

@@ -44,3 +44,7 @@ Materials will be made available by Nathan after the workshop! We will post link
 <!-- -   [ADDITIONAL MATERIAL](URL) -->
 
 [Nathan Khadaroo-McCheyne](https://twitter.com/nathankhadaroo)
+
+### Citation
+
+For attribution, please cite this work as [@khadaroo-mccheyne_nsc-r_2022]

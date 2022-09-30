@@ -8,7 +8,6 @@ categories: [theory, wrangling, visualization, modeling, communication]
 image: "workshop.png"
 ---
 
-
 ![](workshop.png)
 
 On this place you will soon be able to find the materials for the workshop, such as slides, and example code.
@@ -16,3 +15,7 @@ On this place you will soon be able to find the materials for the workshop, such
 The NSC-R Workshops team
 
 Wim Bernasco (wbernasco\@nscr.nl), Sam Langton (slangton\@nscr.nl), Asier Moneva (amoneva\@nscr.nl) Alex Trinidad (atrinidad\@nscr.nl) and Franziska Yasrebi-de Kom (FYasrebi\@nscr.nl).
+
+### Citation
+
+For attribution, please cite this work as [@team_nsc-r_2022]

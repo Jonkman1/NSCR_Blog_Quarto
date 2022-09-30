@@ -22,3 +22,7 @@ The [slides](NSCR%20workshop%20R%20packages%2020220609.pdf) that Sophie uses in 
 Sophie uses a couple of R packages in the workshop:
 
 To reproduce the examples, you need to have installed a couple of packages (devtools, usethis, tidyverse, rlang, broom, here). To install them all, run: `install.packages(c("devtools","usethis", "tidyverse", "rlang", "broom", "here"))`
+
+### Citation
+
+For attribution, please cite this work as [@curtis-ham_nsc-r_nodate]

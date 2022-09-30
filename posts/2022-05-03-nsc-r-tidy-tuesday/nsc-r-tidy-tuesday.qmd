@@ -37,3 +37,7 @@ Alternatively, you can:
 ### Contact
 
 [Alex Trinidad](https://www.alexandertrinidad.com/)
+
+### Citation
+
+For attribution, please cite this work as [@trinidad_nsc-r_2022]

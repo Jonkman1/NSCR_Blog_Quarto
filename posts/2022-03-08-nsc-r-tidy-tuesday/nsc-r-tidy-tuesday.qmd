@@ -25,3 +25,7 @@ In this meeting, Tim will explain what Sankey diagrams are, and how they can be 
 -   The [presentation](presentation.pptx) that Tim used.
 
 [Tim Verlaan](https://nscr.nl/en/medewerker/tim-verlaan)
+
+### Citation
+
+For attribution, please cite this work as [@verlaan_nsc-rn_2022]

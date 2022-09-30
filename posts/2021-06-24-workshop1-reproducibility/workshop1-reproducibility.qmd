@@ -33,9 +33,4 @@ Gandrud, C. *Reproducible Research with R and RStudio, Second edition*. [Click t
 
 [Thomas de Graaf](https://research.vu.nl/en/persons/thomas-de-graaff)
 
-
-For attribution, please cite this work as
-[@graaf_nsc-r_2021-1]
-
-    
-
+For attribution, please cite this work as [@graaf_nsc-r_2021-1]
