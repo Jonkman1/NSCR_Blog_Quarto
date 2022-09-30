@@ -41,4 +41,4 @@ Below are links to potentially usefull sources about Git, Github and their integ
 
 ### Citation
 
-For attribution, please cite this work as [@jonkman_nsc-r_2021}
+For attribution, please cite this work as \[@jonkman_nsc-r_2021}

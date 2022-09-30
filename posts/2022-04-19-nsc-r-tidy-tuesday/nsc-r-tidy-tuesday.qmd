@@ -37,3 +37,8 @@ Alternatively, you can:
 ### Contact
 
 [Asier Moneva](https://nscr.nl/en/medewerker/asier-moneva/)
+
+
+### Citation
+
+For attribution, please cite this work as [@moneva_nsc-r_2022-3]

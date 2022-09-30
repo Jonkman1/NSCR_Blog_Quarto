@@ -48,8 +48,6 @@ Alternatively, you can:
 
 [Wim Bernasco](https://nscr.nl/en/medewerker/prof-dr-wim-bernasco/)
 
-
-
 ### Citation
 
 For attribution, please cite this work as [@bernasco_nsc-r_2022]
