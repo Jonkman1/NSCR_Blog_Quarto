@@ -6,6 +6,7 @@ author: "Asier Moneva"
 date: "April 19 2022"
 categories: [tidy tuesday]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot.PNG)
@@ -34,5 +35,5 @@ Alternatively, you can:
 2.  Download a specific file. To do this, select the desired file in the repository and click on the `raw` button. Then right click on the new page and select `save as`. Don't forget to put the proper extension in the save name, like `.R` or `.Rmd`.
 
 ### Contact
-[Asier Moneva](https://nscr.nl/en/medewerker/asier-moneva/)
 
+[Asier Moneva](https://nscr.nl/en/medewerker/asier-moneva/)

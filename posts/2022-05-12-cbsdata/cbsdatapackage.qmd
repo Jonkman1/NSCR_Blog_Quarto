@@ -6,10 +6,8 @@ author: "Edwin de Jonge"
 date: "May 12 2022"
 categories: [wrangling, visualization, modeling]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
-
-
-
 
 ![](Screenshot.PNG)
 
@@ -19,6 +17,6 @@ In this workshop, Edwin De Jonge from Statistics Netherlands (CBS) provided an i
 
 -   You can find a quick start guide to using the package [here](https://www.cbs.nl/en-gb/our-services/open-data/statline-as-open-data/quick-start-guide).
 
-
 ### 
+
 [Edwin de Jong via](https://www.cbs.nl/nl-nl/over-ons/contact)

@@ -6,6 +6,7 @@ author: "Stef van Buuren"
 date: "April 19 2022"
 categories: [wrangling, modeling]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
 ![](Screenshot.PNG)
@@ -27,4 +28,5 @@ Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.
 The [slides](20220428NSC-R-workshop-handout.pdf) that accompanied Stef's presentation.
 
 ### Contact
+
 [Stef van Buuren](https://stefvanbuuren.name)

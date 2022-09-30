@@ -6,8 +6,8 @@ author: "Wim Bernasco"
 date: "April 14 2022"
 categories: [modeling]
 image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
-
 
 ![](Screenshot.PNG)
 
