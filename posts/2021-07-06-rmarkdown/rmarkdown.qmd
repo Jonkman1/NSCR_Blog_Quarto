@@ -32,5 +32,3 @@ bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quar
 ## Citation
 
 For attribution, please cite this work as [@moneva_nsc-r_2021]
-
-    

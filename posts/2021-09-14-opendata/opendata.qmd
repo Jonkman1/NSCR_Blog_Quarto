@@ -22,4 +22,4 @@ This workshop session provided an introduction to **open data using R**. Followi
 
 ### Citation
 
-For attribution, please cite this work as [@]
+For attribution, please cite this work as \[\@\]
