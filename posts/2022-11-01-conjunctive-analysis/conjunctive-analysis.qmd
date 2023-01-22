@@ -42,3 +42,7 @@ if (! require("tidyverse")) install.packages(
   repos = "http://cran.us.r-project.org"
 )
 ```
+
+### Citation
+
+For attribution, please cite this work as [@moneva_nsc-r_11_2022]

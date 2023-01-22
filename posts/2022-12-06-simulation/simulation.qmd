@@ -2,7 +2,7 @@
 title: "Simulation"
 description: |
        Learn how to use simulation in R.
-author: " Eliza Grames"
+author: "Lisa de Bruine"
 date: "December 06 2022"
 categories: [modeling]
 image: "Screenshot.PNG"
@@ -10,7 +10,6 @@ bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quar
 ---
 
 ![](Screenshot.png)
-
 
 In this workshop, **Lisa DeBruine** will show how you can use R to conduct simulations.
 
@@ -28,4 +27,4 @@ The RMarkdown (Rmd) file she will be working with is linked from there at https:
 
 ### Citation
 
-For attribution, please cite this work as [@langton_nsc-r_2022-1]
+For attribution, please cite this work as [@bruine_nsc_r_12_2022]

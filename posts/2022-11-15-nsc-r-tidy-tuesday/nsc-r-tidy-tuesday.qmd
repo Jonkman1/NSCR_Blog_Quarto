@@ -37,4 +37,4 @@ Wim will use the packages `here`, `tidyverse` and `tidytuesdayR` in the workshop
 
 ### Citation
 
-For attribution, please cite this work as [@langton_nsc-r_2022-1]
+For attribution, please cite this work as [@bernasco_nsc-r_11_2022]

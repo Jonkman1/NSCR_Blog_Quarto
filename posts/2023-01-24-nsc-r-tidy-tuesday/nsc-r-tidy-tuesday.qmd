@@ -1,0 +1,26 @@
+---
+title: "NSC-R Tidy Tuesday"
+description: |
+       Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.
+author: "Franziska Yasrebi-de Kom"
+date: "Januari 24 2023"
+categories: [tidy tuesday]
+image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
+---
+
+![](Screenshot.PNG)
+
+The NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.
+
+Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/81146395699?pwd=cG5FNWxZRC9aOUhxV2s0UUVXMW9EQT09)
+
+> **Franziska Yasrebi-de Kom** is a PhD student at the NSCR [here](https://nscr.nl/en/medewerker/franziska-yasrebi-msc/) .
+
+### Materials
+
+Materials for the workshop will be available here.
+
+### Citation
+
+For attribution, please cite this work as [@yasrebi_nsc-r_01_2023]
