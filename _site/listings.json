@@ -2,6 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2023-01-24-nsc-r-tidy-tuesday/nsc-r-tidy-tuesday.html",
+      "/posts/2022-12-06-simulation/simulation.html",
+      "/posts/2022-11-29-search-term-selection-systematic-reviews/litsearchR.html",
+      "/posts/2022-11-15-nsc-r-tidy-tuesday/nsc-r-tidy-tuesday.html",
+      "/posts/2022-11-01-conjunctive-analysis/conjunctive-analysis.html",
       "/posts/2022-10-05-using-r-for-reproducible-social-science/using-r-for-reproducible-social-science.html",
       "/posts/2022-07-08-summer-break/summer-break.html",
       "/posts/2022-06-09-writing-r-packages/writing-r-packages.html",

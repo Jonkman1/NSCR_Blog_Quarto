@@ -1,0 +1,16 @@
+{
+  "hash": "01dddd48a97399ea5d00cfe0c1eeb02b",
+  "result": {
+    "markdown": "---\ntitle: \"NSC-R Tidy Tuesday\"\ndescription: |\n  Improve your R skills in entertaining, inspiring and supportive sessions moderated by your own colleagues.\nauthor:\n  - name: Alex Trinidad\n    url: https://www.alexandertrinidad.com/\ndate: 01-10-2023\noutput:\n  distill::distill_article:\n    self_contained: false\n# Remove the following line to publish\ndraft: true\n---\n\n\n\n\nThe NSC-R Tidy Tuesday workshop sessions are inspired by the [Tidy Tuesday](https://www.tidytuesday.com/) initiative, which was aimed at providing a safe and supportive forum for individuals to practice their data processing and visualization skills in R while working with real-world data.\n\n\n\n\n\nJoin this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/81146395699?pwd=cG5FNWxZRC9aOUhxV2s0UUVXMW9EQT09)\n\n\n> **Alex Trinidad** a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. I am also a research fellow for the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)) and for the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.\n\n\n\n### Materials\n\nMaterials for the workshop will be available here.\n\n",
+    "supporting": [
+      "nsc-r-tidy-tuesday_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

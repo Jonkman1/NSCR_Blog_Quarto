@@ -1,34 +1,26 @@
 ---
 title: "Conjunctive analysis of case configurations"
 description: |
-  What is conjunctive analysis and how to do it in R
-author:
-  - name: Asier Moneva
-    url: https://nscr.nl/en/medewerker/asier-moneva/
-date: 11-01-2022
-output:
-  distill::distill_article:
-    self_contained: false
-
+       What is conjunctive analysis and how to do it in R?
+author: " Asier Moneva"
+date: "November 01 2022"
+categories: [modeling]
+image: "Screenshot.PNG"
+bibliography: "C:/FilesHarrie/Quarto/NSCR/website/NSCR_Web_Quatro/NSCR_Blog_Quarto/references/references.bib"
 ---
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+![](Screenshot.PNG)
 
-In this workshop **Asier Moneva** will explain what Conjunctive Analysis of Case Configurations (CACC) is about, and how it can be conducted in R with the help of the `cacc` package. Asier will first introduce the CACC and then perform a live demonstration of the `cacc` package from RStudio.  
-
+In this workshop **Asier Moneva** will explain what Conjunctive Analysis of Case Configurations (CACC) is about, and how it can be conducted in R with the help of the `cacc` package. Asier will first introduce the CACC and then perform a live demonstration of the `cacc` package from RStudio.
 
 Join this workshop meeting on Zoom by clicking [this link](https://us02web.zoom.us/j/81620041716?pwd=cjFCbG9TVHc0NTUrcmxmend5WHdCQT09)
 
-
 > **Asier Moneva** is a postdoc at the NSCR and The Hague University of Applied Sciences with a background in criminology. He started specializing in crime analysis with R during his master's degree and has since developed an interest in open science.
-
 
 ### Materials
 
 -   A [link](https://github.com/amoneva/cacc) to the development version of the `cacc` R package in GitHub. The `README.md` file contains a description of the package and walks readers through some examples.
--   [Placeholder for the slides from Asier's workshop presentation]
+-   \[Placeholder for the slides from Asier's workshop presentation\]
 
 Asier will use the following R packages in the workshop:
 
@@ -50,4 +42,3 @@ if (! require("tidyverse")) install.packages(
   repos = "http://cran.us.r-project.org"
 )
 ```
-
