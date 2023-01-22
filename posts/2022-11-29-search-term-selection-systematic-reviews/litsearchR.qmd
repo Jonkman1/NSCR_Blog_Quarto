@@ -25,4 +25,4 @@ In [this compressed folder (ZIP file)](litsearchr-workshop.zip) are the script a
 
 ### Citation
 
-For attribution, please cite this work as [@granes_nsc-r_11_2022]
+For attribution, please cite this work as [@grames_e_nsc-r_2022]

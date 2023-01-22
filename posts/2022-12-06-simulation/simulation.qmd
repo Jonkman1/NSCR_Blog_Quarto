@@ -27,4 +27,4 @@ The RMarkdown (Rmd) file she will be working with is linked from there at https:
 
 ### Citation
 
-For attribution, please cite this work as [@bruine_nsc_r_12_2022]
+For attribution, please cite this work as [@bruine_l_de_nsc-r_2022]
